@@ -14,5 +14,5 @@ Description main files:
 
 **Figure 4.** Regarding the definition of the brain signature as a multivariate measure, we need to understand the joint volumetric modulation of the coloured brain regions in a multivariate way. The coefficient shown in the legend refers to the contribution of the region to the brain signature (standardized sum of betta coefficients that we have described above). This plot is helpful for researchers in the neuroscience field to visually inspect whether the algorithm has been able to detect joint modulations  of subregions involved in specific memory networks. 
 
-**Figure 5.**In figure 5 we plot exactly the same information than in Figure 4, showing the weight of each brain region involved in the optimal brain signature. 
+**Figure 5.** In figure 5 we plot exactly the same information than in Figure 4, showing the weight of each brain region involved in the optimal brain signature. 
 
